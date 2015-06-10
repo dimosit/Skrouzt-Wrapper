@@ -38,7 +38,7 @@ public class Database extends Wrapper {
         String driver   = "org.gjt.mm.mysql.Driver";
         String url      = "jdbc:mysql://83.212.124.175:3306/zadmin_java?useUnicode=yes&characterEncoding=UTF-8";
         String username = "java";
-        String password = "123456";
+        String password = "your password";
 
         Class.forName(driver);    // load MySQL driver
 
